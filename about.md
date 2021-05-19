@@ -1,6 +1,6 @@
-#I'm testing Jekyll!!
+# I'm testing Jekyll!!
 
-For real real, I hope this works. *really*
+For real real, I hope this works. **really**
 
 * Jekyll is a thing
 * Markdown is also a thing
@@ -8,5 +8,5 @@ For real real, I hope this works. *really*
 * I like Markdown
 * Therefore, I like Jekyll
 
-**I also enjoy emphasis**
+*I also enjoy emphasis*
 
